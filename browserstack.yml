@@ -1,0 +1,12 @@
+userName: saurabhbansod_3dtBwW
+accessKey: 1M4up9mzYGEbyS32czqn
+framework: testng
+app: bs://70488ab1a8661fdf1596cfdba40c7d9dcc88c0fb
+platforms:
+  - platformName: ios
+    deviceName: iPhone 14 Pro
+    platformVersion: 16
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
